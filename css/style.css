@@ -1,0 +1,105 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.bookonline {
+    background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45);
+     color: white;
+}
+
+.phnumber {
+    padding: 7px;
+    color: #f3842f;
+    border: 2px solid #f3842f;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    margin-left: 30px;
+}
+
+.btn0 {
+    background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45);
+    padding: 8px 12px;
+    border: none;
+    color: white;
+    border-radius: 7px;
+
+}
+
+li {
+    border: 0.1 solid red;
+}
+
+.main {
+    background-color: #306598;
+    padding: 30px 0px;
+}
+
+.text-white {
+    padding: 10px 0px;
+}
+
+.row3 {
+    width: 100%;
+    padding: 8px;
+    border: 0.1px solid red;
+}
+
+.btn1 {
+    width: 100%;
+    background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45);
+    padding: 8px 35px;
+    border: none;
+    color: white;
+    border-radius: 7px;
+}
+
+.btn3 {
+    background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45);
+    border: none;
+    border-radius: 5px;
+    padding: 7px 12px;
+    color: white;
+}
+
+.table_head {
+    background: #306598;
+    color: white;
+}
+
+.table_1 {
+    background: #306598;
+    color: white;
+    margin: 0px;
+}
+
+.t_button {
+    background-color: black;
+    color: white;
+    padding:10px;
+    border: 0px;
+    border-radius: 8px;
+}
+
+.t_button:hover {
+    background: #ce9600;
+    color: black;
+}
+
+.btn5 {
+    box-shadow: 0px 35px 40px 0px rgb(183, 175, 175);
+    border-radius: 10px;
+}
+
+.map {
+    margin: 80px 0px;
+    --bs-gutter-x: 0rem;
+}
